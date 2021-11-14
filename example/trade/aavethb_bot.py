@@ -22,8 +22,6 @@ import json
 import requests
 from pprint import pprint
 
-import collections
-import os
 
 import array as arr
 
